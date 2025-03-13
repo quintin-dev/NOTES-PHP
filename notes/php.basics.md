@@ -2,7 +2,7 @@
 id: gjrptlxydk4ygsmkk5vuok3
 title: Basics
 desc: ''
-updated: 1741909474846
+updated: 1741909749654
 created: 1741680887126
 ---
 
@@ -137,5 +137,6 @@ This can be written in 4 ways:
 -   ASP style tags:
 
 ```php
-
+<%
+    echo "Hello World!";
 ```
