@@ -2,7 +2,7 @@
 id: gjrptlxydk4ygsmkk5vuok3
 title: Basics
 desc: ''
-updated: 1741683636395
+updated: 1741909430361
 created: 1741680887126
 ---
 
@@ -125,3 +125,9 @@ This can be written in 4 ways:
 > -   Single line comment: `//` or `#`
 > -   Multi-line comment: `/* comment */`
 > -   php arrays can store values of different data types.
+
+-   Short open tag:
+
+```php
+<? echo "Hello World!"; ?>
+```
