@@ -2,7 +2,7 @@
 id: gjrptlxydk4ygsmkk5vuok3
 title: Basics
 desc: ''
-updated: 1741909457663
+updated: 1741909474846
 created: 1741680887126
 ---
 
@@ -133,3 +133,9 @@ This can be written in 4 ways:
 ```
 
 > -   Short open tags are not recommended as they may not be enabled on all servers.
+
+-   ASP style tags:
+
+```php
+
+```
