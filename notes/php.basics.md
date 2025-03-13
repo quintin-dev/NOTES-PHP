@@ -2,7 +2,7 @@
 id: gjrptlxydk4ygsmkk5vuok3
 title: Basics
 desc: ''
-updated: 1741909430361
+updated: 1741909457663
 created: 1741680887126
 ---
 
@@ -131,3 +131,5 @@ This can be written in 4 ways:
 ```php
 <? echo "Hello World!"; ?>
 ```
+
+> -   Short open tags are not recommended as they may not be enabled on all servers.
